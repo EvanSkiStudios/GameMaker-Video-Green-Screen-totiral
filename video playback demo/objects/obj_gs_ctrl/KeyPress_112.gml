@@ -1,0 +1,1 @@
+global.shader = !global.shader;
